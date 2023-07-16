@@ -2,7 +2,7 @@
 
 #### Hey #LinkedIn fam! 👋🏼 I am happy to share with you today! 🎉 After dedicating few hour of hard work and unwavering dedication, I've prepared an extensive set of notes on Security Groups and Network Access Control Lists (NACLs) in AWS. 📝✨
 
-🔒🌐 Unlock the Power of Security Groups and NACLs in AWS! 🚀🔐
+# 🔒🌐 Unlock the Power of Security Groups and NACLs in AWS! 🚀🔐
 
 #### Now, let's talk about the exciting content I've prepared for you. Imagine having the power to control and secure your AWS resources with just a few clicks! That's exactly what Security Groups and NACLs offer you—a robust layer of defense for your cloud infrastructure. 🔒🌐
 
